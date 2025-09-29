@@ -104,3 +104,4 @@ def sendMail(newVacancies):
     #Start shell prompting: scrapy shell [link]
     #Shell promp to get all phd vacanies from KUs jobportal: response.css(".vacancies").css("a::text").getall()   
     #Shell prompt to get the rest of the info associated with position, including deadline for application: response.css(".vacancies").css("td::text").getall()
+    #
